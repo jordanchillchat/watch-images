@@ -1,3 +1,4 @@
 *.png
 _resubmit*
 _backlog*
+.DS_Store
